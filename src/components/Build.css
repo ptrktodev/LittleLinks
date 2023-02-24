@@ -1,0 +1,7 @@
+.build {
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  gap: 0.2rem;
+}
