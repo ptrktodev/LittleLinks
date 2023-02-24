@@ -24,7 +24,7 @@
   transform: scale(0.98);
 }
 
-@media (max-width: 300px) {
+@media (max-width: 450px) {
   .card {
     width: 95%;
   }

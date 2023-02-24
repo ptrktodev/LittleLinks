@@ -31,9 +31,12 @@
   gap: 0.7rem;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 450px) {
   .Me img {
     width: 60%;
     clip-path: circle();
+  }
+  .Me p {
+    font-size: 0.8rem;
   }
 }
