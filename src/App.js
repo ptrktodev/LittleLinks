@@ -20,7 +20,7 @@ function App() {
         <Me />
         <Cards
           bg="#f40000"
-          text="See my last Project"
+          text="See my Project"
           Svg={Hand}
           link="https://cinemagic.bohr.io/"
         />

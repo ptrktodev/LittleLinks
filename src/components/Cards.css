@@ -23,3 +23,9 @@
   cursor: pointer;
   transform: scale(0.98);
 }
+
+@media (max-width: 300px) {
+  .card {
+    width: 95%;
+  }
+}
