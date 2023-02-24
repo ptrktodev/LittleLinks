@@ -4,4 +4,17 @@
   align-items: center;
   padding: 2rem 0;
   gap: 0.2rem;
+  font-size: 1rem;
+}
+
+@media (max-width: 350px) {
+  .build {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 240px) {
+  .build {
+    flex-direction: column;
+  }
 }

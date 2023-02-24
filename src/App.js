@@ -11,7 +11,7 @@ import React from "react";
 
 function App() {
   React.useEffect(() => {
-    document.title = "Home";
+    document.title = "Little Links";
   }, []);
 
   return (

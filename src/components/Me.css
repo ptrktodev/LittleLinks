@@ -9,12 +9,12 @@
 
 .Me h1 {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: var(--color-primary);
 }
 
 .Me img {
-  width: 30%;
+  width: 45%;
   clip-path: circle();
 }
 
