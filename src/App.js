@@ -7,6 +7,8 @@ import { ReactComponent as Hand } from "./assets/hand.svg";
 import { ReactComponent as Git } from "./assets/TikTok.svg";
 import { ReactComponent as Linkedin } from "./assets/Link.svg";
 import { ReactComponent as GR } from "./assets/gr.svg";
+import { ReactComponent as Insta } from "./assets/insta.svg";
+
 import React from "react";
 
 function App() {
@@ -35,6 +37,12 @@ function App() {
           text="Github"
           Svg={Git}
           link="https://github.com/ptrktodev"
+        />
+        <Cards
+          bg="#E2425C"
+          text="Instagram"
+          Svg={Insta}
+          link="https://www.instagram.com/ptrk.io/"
         />
         <Cards
           bg="#795649"
